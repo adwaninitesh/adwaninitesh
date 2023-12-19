@@ -56,4 +56,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/adwaninitesh/8-Week-SQL-Challange) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
+| 💡 [Call Center Dashboard](https://github.com/adwaninitesh/Call_Center_Data_Analysis) | Data analysis, Interactive Dashboard, KPI , Data Visualization, DAX, Power Query | This repo serves as the solution for the Call Center Data Analysis and KPI's from the [PWC Virtual Internship](https://www.theforage.com/dashboard). It showcases my ability to tackle various KPI Measures and demonstrates my proficiency in Visualization and DAX query writing and problem-solving skills. | 
