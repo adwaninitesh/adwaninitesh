@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 <!-- - [Data Engineering](#data-engineering) -->
  [SQL](#sql)
- [Power BI](#power-bi)
+ [PowerBI](#powerbi)
 <!--- [Python](#python) -->
 <!--- [Tableau](#tableau)  -->
 
@@ -52,7 +52,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 -->
-# Power BI
+# PowerBI
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
